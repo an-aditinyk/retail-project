@@ -1,0 +1,9 @@
+Date,Store,Product,Stock,UnitsSold,Revenue
+2026-01-01,Bhubaneswar,Rice,500,40,3200
+2026-01-01,Bhubaneswar,Milk,200,35,1750
+2026-01-01,Cuttack,Rice,450,38,3040
+2026-01-02,Puri,Bread,300,25,1250
+2026-01-02,Cuttack,Milk,180,28,1400
+2026-01-03,Bhubaneswar,Bread,290,30,1500
+2026-01-03,Puri,Rice,420,36,2880
+2026-01-04,Cuttack,Bread,270,22,1100
